@@ -8,3 +8,4 @@ BookBot is a python program that analyzes a text input of a book and prints a re
 3. Place text file in books directory
 4. Change main.py to read new file
 5. Run python3 main.py
+6. Results print to terminal
